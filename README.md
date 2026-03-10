@@ -1,2 +1,5 @@
-# .github
-Welcom to KotuCode org.
+# Welcome to KotuCode org.
+-----
+
+Hello everyone!
+
